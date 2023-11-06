@@ -1,0 +1,44 @@
+/* Color By Name */
+
+/* h1{
+    color: red;
+} */
+
+
+
+/* Hex code */
+
+/* h1{
+    color: #333ba9;
+} */
+
+
+/* RGB */
+
+/* h1{
+    color: rgb(228, 244, 11);
+} */
+
+
+/* BACKGROUND COLOR */
+/* body {
+    background-color: wheat;
+    color: red;
+} */
+
+/* div{
+    background-color: blueviolet;
+    color: aliceblue;
+} */
+
+/* OPACITY */
+/* #div1{
+    background-color: blueviolet;
+    color: antiquewhite;
+    opacity: 0.5;
+} */
+
+img{
+    opacity: 0.5;
+}
+
